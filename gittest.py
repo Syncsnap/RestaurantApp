@@ -1,0 +1,1 @@
+print("May I take your order, please?")
